@@ -5,4 +5,5 @@ yellow
 blue
 green
 pink
-
+violet
+apricot

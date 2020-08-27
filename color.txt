@@ -7,4 +7,5 @@ green
 pink
 white
 purple
-
+violet
+apricot
